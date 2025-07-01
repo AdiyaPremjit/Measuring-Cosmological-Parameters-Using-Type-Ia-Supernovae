@@ -1,2 +1,1 @@
-# Measuring-Cosmological-Parameters-Using-Type-Ia-Supernovae
-Measuring Cosmological Parameters Using Type Ia Supernovae:-
+Estimating Dynamical mass of a galaxy cluster
